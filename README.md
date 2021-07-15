@@ -1,2 +1,2 @@
-# Circular Queue Implementation
-C program for implementing a Circular Queue.
+# Circular Queue implementation using arrays
+C program for implementing a Circular Queue using arrays.
