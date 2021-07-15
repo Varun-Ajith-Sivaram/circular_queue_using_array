@@ -3,9 +3,9 @@
 
 #define size 10  //size of circular queue is initialized to 10
 
-void enque();
-void deque();
-void display();
+void enque();   //function to insert element
+void deque();   //function to delete element
+void display(); //function to display contents of queue
 
 int CQ[size],front,rear,ch;
 
