@@ -16,6 +16,8 @@ void main()
     
     printf("\tCircular Queue Implementation\n");
     
+    printf("\nSize of circular queue is initialized to %d\n",size);
+    
     do{
         printf("\nOperations available: \n");
         printf("1.Enque\n");
